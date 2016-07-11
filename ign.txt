@@ -1,1 +1,8 @@
-'pwejf'm
+/*
+
+!src/
+!libs/
+!xmls/
+!pom.xml
+!README.md
+!.gitignore
