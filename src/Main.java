@@ -19,7 +19,7 @@ public class Main {
         try {
             scanner = new Scanner(new File("res//1.txt"));
         } catch (Exception e) {
-            JOptionPane.showMessageDialog(null, "No file");
+            JOptionPane.showMessageDialog(null, "No file, please verified");
         }
 
     }

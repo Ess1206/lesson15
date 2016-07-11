@@ -1,6 +1,6 @@
 /*
-
 !src/
+!res/
 !libs/
 !xmls/
 !pom.xml
